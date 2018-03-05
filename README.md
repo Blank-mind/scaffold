@@ -6,5 +6,6 @@
 * [x] springboot-mabatis-springMVC 架构的服务搭建完成
 * [x] 服务间依赖调用问题解决
 * [x] 增加鉴权模块
+* [x] 增加MQ模块
 * [ ] 更多模块
 
